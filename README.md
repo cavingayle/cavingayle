@@ -9,7 +9,7 @@ I am passionate Full Stack Web Developer based in New York with an affinity for 
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my React skills: NextJS, Gatsby JS and React Native.
+Currently improving my React skills: NextJS, Gatsby JS and UI/UX.
 
 
 ### More about me 🦄
