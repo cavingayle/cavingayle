@@ -15,7 +15,7 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native.
 ### More about me 🦄
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 🌱 I’m currently mastering Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://docs.google.com/document/d/1Ocq43hu4ZYZQUdWFoMZI7z2lnEuc5InOyU86kFb9K_s/edit?usp=sharing)
 
