@@ -20,7 +20,7 @@ Currently improving my React skills: NextJS, Gatsby JS and UI/UX.
   <img src="https://github.com/cavingayle/Portfolio-Website/blob/main/portfolio.gif" alt="Portfolio Preview Gif" height="200" width="350">
 </a>  
   
-<a href="https://arsensgym.netlify.app/">
+<a href="https://youtube-yelp.com/">
   <img src="https://github.com/cavingayle/YoutubeYelp/blob/master/YoutubeYelp1.gif" alt="Project Preview Gif" height="200" width="350" align="right">
 </a> 
   </p>
