@@ -24,8 +24,17 @@ Currently improving my React skills: NextJS, Gatsby JS and UI/UX.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cavingayle/)](https://www.linkedin.com/in/cavingayle/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cavin_gayle)](https://twitter.com/cavin_gayle)
 
 
+### My Work
 
-
+<p align='left'>
+<a href="https://cavingayle.com">
+  <img src="https://github.com/cavingayle/Portfolio-Website/blob/main/portfolio.gif" alt="Portfolio Preview Gif" height="200" width="350">
+</a>  
+  
+<a href="https://arsensgym.netlify.app/">
+  <img src="https://github.com/cavingayle/YoutubeYelp/blob/master/YoutubeYelp1.gif" alt="Project Preview Gif" height="200" width="350" align="right">
+</a> 
+  </p>
 
 
 
