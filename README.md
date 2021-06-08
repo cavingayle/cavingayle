@@ -32,7 +32,7 @@ Currently improving my React skills: NextJS, Gatsby JS and UI/UX.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently mastering Typescript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://drive.google.com/file/d/1F8z36ipNrXGYMAB8QD5TCyal0OLtbSaU/view?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/1zxDCy52bTwVUeLkf6NY1l_jMBTWbtY1MY-MzrjXvrCE/edit?usp=sharing)
 
 
 ### Find me elsewhere 🌎
