@@ -5,7 +5,7 @@
 
 
 
-I'm a passionate Full Stack Web Developer based in New York with an affinity for creation regardless of the medium! 
+I'm a passionate Full Stack Web Developer based in New York with a passion for design and problem solving. 
 
 ### What I'm focusing on 👨‍💻
 
